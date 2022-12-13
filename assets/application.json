@@ -1,7 +1,7 @@
 {
-  "app_id": 9000,
-  "title": "My Awesome E-Com Plus App",
-  "slug": "my-awesome-ecom-plus-app",
+  "app_id": 101224,
+  "title": "Fidelizar Mais",
+  "slug": "fidelizar-mais",
   "type": "external",
   "state": "active",
   "authentication": true,
@@ -13,11 +13,23 @@
     "procedures": [
       "POST"
     ],
-    "products": [],
+    "applications": [
+      "GET"
+    ],
+    "applications/hidden_data": [
+      "PATCH"
+    ],
+    "products": [
+      "GET"
+    ],
     "brands": [],
     "categories": [],
-    "customers": [],
-    "orders": [],
+    "customers": [
+      "GET"
+    ],
+    "orders": [
+      "GET"
+    ],
     "carts": [],
     "orders/fulfillments": [],
     "orders/payments_history": [],
@@ -26,6 +38,7 @@
     "products/price": [],
     "products/variations/price": []
   },
-  "auth_callback_uri": "https://us-central1-ecom-app-boilerplate.cloudfunctions.net/app/ecom/auth-callback",
+  "admin_settings": {},
+  "auth_callback_uri": "https://us-central1-ecom-fidelizarmais.cloudfunctions.net/app/ecom/auth-callback",
   "version": "1.0.0"
 }
