@@ -1,6 +1,6 @@
-# E-Com Plus Application Starter
+# E-Com Plus app: Fidelizar Mais
 
-[![Deploy](https://github.com/ecomplus/application-starter/workflows/Deploy/badge.svg)](https://github.com/ecomplus/application-starter/actions?workflow=Deploy)  [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Deploy](https://github.com/ecomplus-bot/app-fidelizarmais/workflows/Deploy/badge.svg)](https://github.com/ecomplus-bot/app-fidelizarmais/actions?workflow=Deploy)  [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 :dog: Boilerplate for E-Com Plus apps with [Firebase](https://firebase.google.com/) Cloud Functions and GitHub Actions.
 
