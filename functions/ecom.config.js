@@ -7,8 +7,8 @@
 
 const app = {
   app_id: 101224,
-  title: 'My Awesome E-Com Plus App',
-  slug: 'my-awesome-app',
+  title: 'Fidelizar Mais',
+  slug: 'fidelizar-mais',
   type: 'external',
   state: 'active',
   authentication: true,
