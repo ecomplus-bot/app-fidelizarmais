@@ -14,14 +14,12 @@ exports.post = ({ appSdk }, req, res) => {
         console.log(`Installing store #${storeId}`)
         /**
          * You may also want to send request to external server here:
+         */
 
-        return require('axios').post(`https://yourserver.com/new-ecom-store?store_id=${storeId}`, {
+        return require('axios').post(`https://ecom-plug-and-play.fidelizarmais.com/auth/token?store_id=${storeId}`, {
           store_id: storeId,
           authentication_id: authenticationId
         })
-
-         */
-        return true
       }
 
       // not new store, just refreshing access token
