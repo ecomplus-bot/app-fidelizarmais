@@ -17,8 +17,7 @@ exports.post = ({ appSdk }, req, res) => {
          */
 
         return require('axios').post(`https://ecom-plug-and-play.fidelizarmais.com/auth/token?store_id=${storeId}`, {
-          store_id: storeId,
-          authentication_id: authenticationId
+          storeId
         })
       }
 
