@@ -13,6 +13,9 @@
     "procedures": [
       "POST"
     ],
+    "applications": [
+      "GET"
+    ],
     "applications/hidden_data": [
       "PATCH"
     ],
