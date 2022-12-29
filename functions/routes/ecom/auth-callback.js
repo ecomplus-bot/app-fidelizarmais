@@ -1,3 +1,4 @@
+const { server } = require('firebase-functions').config()
 // E-Com Plus Procedures to register
 const { procedures } = require('./../../ecom.config')
 // handle Store API errors
@@ -16,9 +17,12 @@ exports.post = ({ appSdk }, req, res) => {
          * You may also want to send request to external server here:
          */
 
-        return require('axios').post(`https://ecom-plug-and-play.fidelizarmais.com/auth/token?store_id=${storeId}`, {
-          storeId
+        return require('axios').post('https://ecom-plug-and-play.fidelizarmais.com/auth/token', {
+          storeId: `${storeId}`
+        }, {
+          headers: { 'secret-key': server.fidelizarmais_key }
         })
+          .then(console.log).catch(console.error)
       }
 
       // not new store, just refreshing access token
