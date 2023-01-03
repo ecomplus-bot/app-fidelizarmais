@@ -1,3 +1,19 @@
-# My Awesome E-Com Plus App
+# Fidelizar Mais
 
-Somethings about my app and what it does...
+> Mais informações no site https://fidelizarmais.co , suporte da integração pelo e-mail ti@fidelizarmais.com.br.
+
+### Programa de Fidelidade para sua Loja Virtual
+
+Se conecte de forma única com seus clientes e crie relacionamentos duradouros de fidelidade, ao recompensar e se fazer presente na vida deles.
+
+#### Pontue
+
+Recompense seus clientes com pontos, por ex.: a cada 1 real em compras = 1 ponto, e nosso sistema começará a interagir com essas pessoas..
+
+#### Converse
+
+Mantenha uma comunicação recorrente com seus clientes através dos e-mails de saldo de pontos, feliz aniversário e boas-vindas, 100% automatizado.
+
+#### Fature
+
+Com clientes leais que indicam, avaliam sua loja e compram diversas vezes, você vai esquecer os velhos clientes infiéis, que compram do mais barato que vêem no Google.
