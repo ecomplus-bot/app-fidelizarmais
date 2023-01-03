@@ -53,9 +53,6 @@ const app = {
     procedures: [
       'POST'           // Create procedures to receive webhooks
     ],
-    applications: [
-      'GET'
-    ],
     'applications/hidden_data': [
       'PATCH'
     ],
