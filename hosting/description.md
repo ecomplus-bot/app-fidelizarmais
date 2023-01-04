@@ -1,10 +1,8 @@
 # Fidelizar Mais
 
 <div class="alert alert-info">
-  Mais informações no site https://fidelizarmais.co , suporte da integração pelo e-mail ti@fidelizarmais.com.br.
+  Mais informações no site <a href="https://fidelizarmais.co" target="_blank">https://fidelizarmais.co</a>, suporte da integração pelo e-mail <a href="mailto:ti@fidelizarmais.com.br" target="_blank">ti@fidelizarmais.com.br</a>.
 </div>
-
-___
 
 ### Programa de Fidelidade para sua Loja Virtual
 
