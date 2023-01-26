@@ -2,11 +2,11 @@
 
 Adicione o plugin do Fidelizar Mais na loja:
 
-1. <a href="https://ajuda.fidelizarmais.com/article/onde-encontrar-o-script-do-programa-de-fidelidade" target="_blank">Onde encontrar o script do programa de Fidelidade</a>
+1. <a href="https://ajuda.fidelizarmais.com/article/onde-encontrar-o-script-do-programa-de-fidelidade" target="_blank" rel="noopener">Onde encontrar o script do programa de Fidelidade</a>
 2. <a href="https://community.e-com.plus/t/como-inserir-codigos-em-body/745" target="_blank">Como inserir códigos em /body</a>
 
 <div class="alert alert-info">
-  Mais informações no site <a href="https://fidelizarmais.co" target="_blank">https://fidelizarmais.co</a>, suporte da integração pelo e-mail <a href="mailto:ti@fidelizarmais.com.br" target="_blank">ti@fidelizarmais.com.br</a>.
+  Mais informações no site <a href="https://fidelizarmais.co" target="_blank" rel="noopener">https://fidelizarmais.co</a>, suporte da integração pelo e-mail <a href="mailto:contato@fidelizarmais.com.br" target="_blank" rel="noopener">contato@fidelizarmais.com.br</a>.
 </div>
 
 ### Programa de Fidelidade para sua Loja Virtual
